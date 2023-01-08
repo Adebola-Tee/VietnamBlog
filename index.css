@@ -1,0 +1,50 @@
+body{
+    margin-left: 40px;
+   
+}
+.navbar{
+    display: flex;
+}
+#DOM{
+    color:red;
+    position: absolute;
+    top:-20px;
+}
+.img-txt{
+    position:relative;
+    margin: 3%;
+}
+.block{
+    
+    position: absolute;
+    top: -1px;
+    right: 80px;
+    border:2px solid white;
+    background-color: white;
+    width:500px;
+    height: 500px;
+}
+.h12{
+    color:black;
+    line-height:1in;
+}
+.h1p{
+    padding:2px;
+    margin:30px 20px 0 20px;
+    
+}
+#first-p{
+    font-size: 20px;
+    line-height:0.3in;
+    
+}
+.second-p{
+    font-size: 20px;
+    line-height:0.3in;
+}
+.divsp{
+    width:800px;
+}
+.body-header{
+    color:red
+}
